@@ -1,0 +1,14 @@
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\obj\Debug\net9.0\Quadratic_Solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\obj\Debug\net9.0\Quadratic_Solver.AssemblyInfoInputs.cache
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\obj\Debug\net9.0\Quadratic_Solver.AssemblyInfo.cs
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\obj\Debug\net9.0\Quadratic_Solver.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\bin\Debug\net9.0\Quadratic_Solver.exe
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\bin\Debug\net9.0\Quadratic_Solver.deps.json
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\bin\Debug\net9.0\Quadratic_Solver.runtimeconfig.json
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\bin\Debug\net9.0\Quadratic_Solver.dll
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\bin\Debug\net9.0\Quadratic_Solver.pdb
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\obj\Debug\net9.0\Quadratic_Solver.dll
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\obj\Debug\net9.0\refint\Quadratic_Solver.dll
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\obj\Debug\net9.0\Quadratic_Solver.pdb
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\obj\Debug\net9.0\Quadratic_Solver.genruntimeconfig.cache
+C:\Users\Marcel\Desktop\Inzynieriaprogramowania\QuadraticSolver\Quadratic_Solver\obj\Debug\net9.0\ref\Quadratic_Solver.dll
